@@ -15,5 +15,5 @@ spec:
         app: go-helloworld-2
     spec:
       containers:
-      - image: m19089mamada/go-helloworld-2
+      - image: 4430-takakuwa/go-helloworld-2
         name: go-helloworld-2
